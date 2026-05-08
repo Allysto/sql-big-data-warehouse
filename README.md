@@ -1,9 +1,9 @@
-# 🏆 SQL Big Data Warehouse Project
+#  SQL Big Data Warehouse Project
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18-blue)](https://postgresql.org)
 [![Data Warehouse](https://img.shields.io/badge/Architecture-Star%20Schema-brightgreen)](https://en.wikipedia.org/wiki/Star_schema)
 
-## 📊 Query Results
+## Query Results
 
 ### Sales by Province
 
@@ -17,16 +17,16 @@
 
 **Total Sales:** ~R1,284,000+
 
-## 🗄️ Database Schema
+##  Database Schema
 
 - **Fact Table**: `fact_sales` (partitioned monthly)
 - **Dimensions**: `dim_customer`, `dim_product`, `dim_store`, `dim_date`
 - **Total Records**: 100,000+ sales transactions
 
-## 📁 Project Structure
+##  Project Structure
 
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Connect to database
